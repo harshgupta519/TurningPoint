@@ -54,4 +54,4 @@ jobs:
           app-name: 'TurningPoint'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_109C9960512E46539F58666939998E32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_125ABF04E38A4D1583DBC2194CAA21B4 }}
